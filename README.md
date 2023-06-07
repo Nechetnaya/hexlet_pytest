@@ -1,1 +1,1 @@
-https://github.com/github/docs/actions/workflows/learn-github-actons.yml/badge.svg
+[![learn-github-actions](https://github.com/Nechetnaya/hexlet_pytest/actions/workflows/learn-github-actions.yml/badge.svg)](https://github.com/Nechetnaya/hexlet_pytest/actions/workflows/learn-github-actions.yml)
